@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/bihan/my-nextjs-app01/app/page.js"],"sourcesContent":["\"use client\"; //Remove this to generate the error\r\nimport { useTheme } from \"./context/ThemeContext\";\r\nimport \"../styles/globals.css\";\r\n\r\nexport default function HomePage() {\r\n  const { theme, toggleTheme } = useTheme();\r\n  return (\r\n    <main\r\n      className={`min-vh-100 ${theme == \"light\" ? \"bg-light text-dark\" : \"bg-dark text-light\"}`}\r\n    >\r\n      <div className=\"container has-text-centered\">\r\n        <h1 className=\"title is-1\">Welcome to the NM Tafe Next.js App</h1>\r\n        <p className=\"subtitle\">\r\n          Building modern applications with Next.js and Bootstrap.\r\n        </p>\r\n        <button className=\"btn btn-primary\" onClick={toggleTheme}>\r\n          Toggle Theme\r\n        </button>\r\n      </div>\r\n    </main>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AACA;AADA,cAAc,mCAAmC;;;;AAIlC,SAAS;IACtB,MAAM,EAAE,KAAK,EAAE,WAAW,EAAE,GAAG,IAAA,0IAAQ;IACvC,qBACE,8OAAC;QACC,WAAW,CAAC,WAAW,EAAE,SAAS,UAAU,uBAAuB,sBAAsB;kBAEzF,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;oBAAG,WAAU;8BAAa;;;;;;8BAC3B,8OAAC;oBAAE,WAAU;8BAAW;;;;;;8BAGxB,8OAAC;oBAAO,WAAU;oBAAkB,SAAS;8BAAa;;;;;;;;;;;;;;;;;AAMlE","debugId":null}}]
+}

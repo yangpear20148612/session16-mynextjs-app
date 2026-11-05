@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/bihan/my-nextjs-app01/app/page.js"],"sourcesContent":["// app/page.js\r\n// import { useTheme };\r\n\r\nimport \"../styles/globals.css\";\r\n\r\nexport default function HomePage() {\r\n  return (\r\n    <main className=\"section\">\r\n      <div className=\"container has-text-centered\">\r\n        <h1 className=\"title is-1\">Welcome to the NM Tafe Next.js App</h1>\r\n        <p className=\"subtitle\">\r\n          Building modern applications with Next.js and Bootstrap.\r\n        </p>\r\n      </div>\r\n    </main>\r\n  );\r\n}\r\n"],"names":[],"mappings":"AAAA,cAAc;AACd,uBAAuB;;;;;;;;AAIR,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;kBACd,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;oBAAG,WAAU;8BAAa;;;;;;8BAC3B,8OAAC;oBAAE,WAAU;8BAAW;;;;;;;;;;;;;;;;;AAMhC","debugId":null}}]
+}
