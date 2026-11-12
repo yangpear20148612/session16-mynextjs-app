@@ -4,7 +4,7 @@ import { useState } from "react";
 
 import ApodForm from "../components/ApodForm";
 import ApodContent from "../components/ApodContent";
-import "../bulma.min.css";
+import "../../styles/bulma.min.css";
 import "../globals.css";
 
 const NasaApi = () => {
