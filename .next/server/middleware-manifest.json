@@ -1,6 +1,99 @@
 {
   "version": 3,
   "middleware": {},
-  "sortedMiddleware": [],
-  "functions": {}
+  "functions": {
+    "/api/users/route": {
+      "files": [
+        "server/server-reference-manifest.js",
+        "server/app/api/users/route_client-reference-manifest.js",
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/interception-route-rewrite-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/898.js",
+        "server/app/api/users/route.js"
+      ],
+      "name": "app/api/users/route",
+      "page": "/api/users/route",
+      "matchers": [
+        {
+          "regexp": "^/api/users$",
+          "originalSource": "/api/users"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "S84qhC0LXEeC8lMUd-Oct",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "8hmFhPair8L5ssoJbdQx2xzNA98U0vym1ZJCcOPKAMI=",
+        "__NEXT_PREVIEW_MODE_ID": "b5dc901d51d7466fe59ee7aee51a150f",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "8ab8bb3fb1c12b91771bba526b81d4c5609204c5db304bdebdf654a8220e1524",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "0b64fb769fc434ab690baf2bcf776314414f4dfccc325aadafd708cf1f83fcaf"
+      }
+    },
+    "/gallery/[id]/page": {
+      "files": [
+        "server/server-reference-manifest.js",
+        "server/app/gallery/[id]/page_client-reference-manifest.js",
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/interception-route-rewrite-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/898.js",
+        "server/edge-chunks/937.js",
+        "server/app/gallery/[id]/page.js"
+      ],
+      "name": "app/gallery/[id]/page",
+      "page": "/gallery/[id]/page",
+      "matchers": [
+        {
+          "regexp": "^/gallery/(?<id>[^/]+?)$",
+          "originalSource": "/gallery/[id]"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "S84qhC0LXEeC8lMUd-Oct",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "8hmFhPair8L5ssoJbdQx2xzNA98U0vym1ZJCcOPKAMI=",
+        "__NEXT_PREVIEW_MODE_ID": "b5dc901d51d7466fe59ee7aee51a150f",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "8ab8bb3fb1c12b91771bba526b81d4c5609204c5db304bdebdf654a8220e1524",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "0b64fb769fc434ab690baf2bcf776314414f4dfccc325aadafd708cf1f83fcaf"
+      }
+    },
+    "/nasa-api/[id]/page": {
+      "files": [
+        "server/server-reference-manifest.js",
+        "server/app/nasa-api/[id]/page_client-reference-manifest.js",
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/interception-route-rewrite-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/898.js",
+        "server/edge-chunks/937.js",
+        "server/app/nasa-api/[id]/page.js"
+      ],
+      "name": "app/nasa-api/[id]/page",
+      "page": "/nasa-api/[id]/page",
+      "matchers": [
+        {
+          "regexp": "^/nasa\\-api/(?<id>[^/]+?)$",
+          "originalSource": "/nasa-api/[id]"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "S84qhC0LXEeC8lMUd-Oct",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "8hmFhPair8L5ssoJbdQx2xzNA98U0vym1ZJCcOPKAMI=",
+        "__NEXT_PREVIEW_MODE_ID": "b5dc901d51d7466fe59ee7aee51a150f",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "8ab8bb3fb1c12b91771bba526b81d4c5609204c5db304bdebdf654a8220e1524",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "0b64fb769fc434ab690baf2bcf776314414f4dfccc325aadafd708cf1f83fcaf"
+      }
+    }
+  },
+  "sortedMiddleware": []
 }
