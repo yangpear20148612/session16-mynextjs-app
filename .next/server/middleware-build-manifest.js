@@ -1,1 +1,102 @@
-globalThis.__BUILD_MANIFEST={polyfillFiles:["static/chunks/polyfills-42372ed130431b0a.js"],devFiles:[],ampDevFiles:[],lowPriorityFiles:[],rootMainFiles:["static/chunks/webpack-e3de4c62eba6fbdf.js","static/chunks/4bd1b696-c023c6e3521b1417.js","static/chunks/255-cf2e1d3491ac955b.js","static/chunks/main-app-c108db3d7af090d7.js"],rootMainFilesTree:{},pages:{"/_app":["static/chunks/webpack-e3de4c62eba6fbdf.js","static/chunks/framework-a6e0b7e30f98059a.js","static/chunks/main-fa4109feca43d482.js","static/chunks/pages/_app-82835f42865034fa.js"],"/_error":["static/chunks/webpack-e3de4c62eba6fbdf.js","static/chunks/framework-a6e0b7e30f98059a.js","static/chunks/main-fa4109feca43d482.js","static/chunks/pages/_error-013f4188946cdd04.js"]},ampFirstPages:[]},globalThis.__BUILD_MANIFEST.lowPriorityFiles=["/static/"+process.env.__NEXT_BUILD_ID+"/_buildManifest.js",,"/static/"+process.env.__NEXT_BUILD_ID+"/_ssgManifest.js"];
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0cz1d0mv5g_q7.js"
+  ],
+  "lowPriorityFiles": [
+    "static/fvu3WkH6YWSzblgIsPYmC/_buildManifest.js",
+    "static/fvu3WkH6YWSzblgIsPYmC/_ssgManifest.js",
+    "static/fvu3WkH6YWSzblgIsPYmC/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/0xe_xnyt07trp.js",
+    "static/chunks/1k2w3nq2-wg_-.js",
+    "static/chunks/3fb-bejtm1a8q.js",
+    "static/chunks/1r4tpu9kyu516.js",
+    "static/chunks/turbopack-2u1d16houkiyo.js"
+  ],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {
+    "/page": {
+      "otherChunks": [
+        "static/chunks/0xe_xnyt07trp.js",
+        "static/chunks/1k2w3nq2-wg_-.js",
+        "static/chunks/3fb-bejtm1a8q.js",
+        "static/chunks/1r4tpu9kyu516.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/_not-found/page": {
+      "otherChunks": [
+        "static/chunks/0xe_xnyt07trp.js",
+        "static/chunks/1k2w3nq2-wg_-.js",
+        "static/chunks/3fb-bejtm1a8q.js",
+        "static/chunks/1r4tpu9kyu516.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/_global-error/page": {
+      "otherChunks": [
+        "static/chunks/0xe_xnyt07trp.js",
+        "static/chunks/1k2w3nq2-wg_-.js",
+        "static/chunks/3fb-bejtm1a8q.js",
+        "static/chunks/1r4tpu9kyu516.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/about/page": {
+      "otherChunks": [
+        "static/chunks/0xe_xnyt07trp.js",
+        "static/chunks/1k2w3nq2-wg_-.js",
+        "static/chunks/3fb-bejtm1a8q.js",
+        "static/chunks/1r4tpu9kyu516.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/gallery/[id]/page": {
+      "otherChunks": [
+        "static/chunks/0xe_xnyt07trp.js",
+        "static/chunks/1k2w3nq2-wg_-.js",
+        "static/chunks/3fb-bejtm1a8q.js",
+        "static/chunks/1r4tpu9kyu516.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/nasa-api/page": {
+      "otherChunks": [
+        "static/chunks/0xe_xnyt07trp.js",
+        "static/chunks/1k2w3nq2-wg_-.js",
+        "static/chunks/3fb-bejtm1a8q.js",
+        "static/chunks/1r4tpu9kyu516.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/nasa-api/[id]/page": {
+      "otherChunks": [
+        "static/chunks/0xe_xnyt07trp.js",
+        "static/chunks/1k2w3nq2-wg_-.js",
+        "static/chunks/3fb-bejtm1a8q.js",
+        "static/chunks/1r4tpu9kyu516.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    }
+  },
+  "chunkLoadingGlobal": "TURBOPACK"
+};

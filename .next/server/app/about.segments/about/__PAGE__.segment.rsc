@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3kykmshkdhm-g.js"
+3:I[95229,["$2"],"ThemeProvider"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+9:"LoadingBoundaryProvider"
+a:I[39756,["$2"],"$9"]
+b:"/_next/static/chunks/08pofe3e8xcb2.js"
+c:I[49921,["$2","$b"],"default"]
+d:"/_next/static/chunks/44uozu4gto0qa.js"
+e:I[61357,["$2","$d"],"default"]
+f:"/_next/static/chunks/245ey4md00c6_.js"
+10:I[11915,["$2","$f"],"default"]
+13:I[97367,["$2"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2"],"$19"]
+:HL["/_next/static/chunks/2bjt5ykl4679o.css","style"]
+:HL["/_next/static/chunks/399nix8rbd_16.css","style"]
+7:X
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"section","children":["$","div",null,{"className":"container has-text-centered","children":[["$","h1",null,{"className":"title is-1","children":"About the App"}],["$","p",null,{"className":"subtitle","children":"Building modern applications with Next.js and Bootstrap"}]]}]}],null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$7"}}]]
+8:[["children",{"s":"about","h":100,"d":{"r":["$","$La",null,{"loading":[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/_next/static/chunks/08pofe3e8xcb2.js","async":true}]]],"children":["$","$1","c",{"children":[null,["$","div",null,{"children":["$","section",null,{"className":"section","children":["$","div",null,{"className":"container","children":["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$e","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/44uozu4gto0qa.js","async":true}]],"template":["$","$L5",null,{}],"notFound":[["$","$L10",null,{}],[]]}]}]}]}]}]]}]}],"p":"$@11","v":null,"s":"$7"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":88,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2bjt5ykl4679o.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/399nix8rbd_16.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3kykmshkdhm-g.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","nav",null,{"className":"navbar navbar-expand-lg navbar-dark bg-primary","children":["$","div",null,{"className":"container","children":[["$","a",null,{"className":"navbar-brand","href":"/","children":"My Next.js App"}],["$","button",null,{"className":"navbar-toggler","type":"button","data-bs-toggle":"collapse","data-bs-target":"#navbarNav","aria-controls":"navbarNav","aria-expanded":"false","aria-label":"Toggle navigation","children":["$","span",null,{"className":"navbar-toggler-icon"}]}],["$","div",null,{"className":"collapse navbar-collapse","id":"navbarNav","children":["$","ul",null,{"className":"navbar-nav","children":["$","li",null,{"className":"nav-item","children":["$","a",null,{"className":"nav-link active","aria-current":"page","href":"/","children":"Home"}]}]}]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"container","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]}],["$","footer",null,{"className":"bg-light text-center py-4 mt-4","children":["$","div",null,{"className":"container","children":["$","p",null,{"className":"mb-0","children":["© 2026 ",["$","strong",null,{"children":"My Next.js App"}],". Built with Next.js and Bootstrap"]}]}]}]]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NM Tafe Next.js App"}],["$","meta","1",{"name":"description","content":"A modern application built with Next.js and Bootstrap"}],["$","meta","2",{"property":"og:title","content":"My Next.js App"}],["$","meta","3",{"property":"og:description","content":"A modern web application built with Next.js"}],["$","meta","4",{"property":"og:site_name","content":"My Next.js App"}],["$","meta","5",{"property":"og:image","content":"http://localhost:3000/logo.png"}],["$","meta","6",{"property":"og:image:width","content":"800"}],["$","meta","7",{"property":"og:image:height","content":"600"}],["$","meta","8",{"property":"og:image:alt","content":"App Logo"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"My Next.js App"}],["$","meta","11",{"name":"twitter:description","content":"A modern web application built with Next.js"}],["$","meta","12",{"name":"twitter:image","content":"http://localhost:3000/logo.png"}],["$","meta","13",{"name":"twitter:image:alt","content":"App Logo"}],["$","meta","14",{"name":"twitter:image:width","content":"800"}],["$","meta","15",{"name":"twitter:image:height","content":"600"}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$7"}},"a":"$@1c","u":"$@1d","b":"fvu3WkH6YWSzblgIsPYmC"}
+15:null
+7:300
+1d:true
+7:C
+1c:0
+11:"$undefined"
+6:"$undefined"
+1b:"$undefined"
+16:"$undefined"

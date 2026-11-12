@@ -1,0 +1,3 @@
+module.exports=[30100,a=>{"use strict";var b=a.i(87924),c=a.i(35801);a.s(["default",0,function(){let{theme:a,toggleTheme:d}=(0,c.useTheme)();return(0,b.jsx)("main",{className:`min-vh-100 ${"light"==a?"bg-light text-dark":"bg-dark text-light"}`,children:(0,b.jsxs)("div",{className:"container has-text-centered",children:[(0,b.jsx)("h1",{className:"title is-1",children:"Welcome to the NM Tafe Next.js App"}),(0,b.jsx)("p",{className:"subtitle",children:"Building modern applications with Next.js and Bootstrap."}),(0,b.jsx)("button",{className:"btn btn-primary",onClick:d,children:"Toggle Theme"})]})})}])}];
+
+//# sourceMappingURL=app_page_1fazqbfhcolpk.js.map

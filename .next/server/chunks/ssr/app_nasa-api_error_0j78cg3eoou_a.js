@@ -1,0 +1,3 @@
+module.exports=[67827,a=>{"use strict";var b=a.i(87924);a.s(["default",0,function({error:a,reset:c}){return(0,b.jsx)("section",{className:"hero is-danger is-fullheight",children:(0,b.jsx)("div",{className:"hero-body",children:(0,b.jsxs)("div",{className:"container has-text-centered",children:[(0,b.jsx)("h1",{className:"title",children:"Error Occurred"}),(0,b.jsx)("p",{children:a.message}),(0,b.jsx)("button",{className:"button is-primary",onClick:()=>c(),children:"Try Again"})]})})})}])}];
+
+//# sourceMappingURL=app_nasa-api_error_0j78cg3eoou_a.js.map

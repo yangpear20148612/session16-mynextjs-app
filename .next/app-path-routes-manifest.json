@@ -1,9 +1,10 @@
 {
+  "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
-  "/page": "/",
   "/about/page": "/about",
-  "/nasa-api/page": "/nasa-api",
   "/api/users/route": "/api/users",
   "/gallery/[id]/page": "/gallery/[id]",
-  "/nasa-api/[id]/page": "/nasa-api/[id]"
+  "/nasa-api/[id]/page": "/nasa-api/[id]",
+  "/nasa-api/page": "/nasa-api",
+  "/page": "/"
 }

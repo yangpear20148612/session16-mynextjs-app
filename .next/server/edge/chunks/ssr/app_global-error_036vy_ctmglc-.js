@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["chunks/ssr/app_global-error_036vy_ctmglc-.js",28713,a=>{"use strict";var b=a.i(27095);a.s(["default",0,function({error:a,reset:c}){return(0,b.jsx)("html",{children:(0,b.jsx)("body",{className:"has-background-danger-light",children:(0,b.jsx)("section",{className:"section",children:(0,b.jsxs)("div",{className:"container has-text-centered",children:[(0,b.jsx)("h1",{className:"title",children:"Global Error"}),(0,b.jsx)("p",{children:a.message}),(0,b.jsx)("button",{className:"button is-primary",onClick:()=>c(),children:"Retry"})]})})})})}])}]);
+
+//# sourceMappingURL=app_global-error_036vy_ctmglc-.js.map

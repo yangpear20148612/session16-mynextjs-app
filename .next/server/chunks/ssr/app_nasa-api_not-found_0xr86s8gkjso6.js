@@ -1,0 +1,3 @@
+module.exports=[40511,a=>{"use strict";var b=a.i(87924);a.s(["default",0,function(){return(0,b.jsx)("section",{className:"hero is-danger is-fullheight",children:(0,b.jsx)("div",{className:"hero-body",children:(0,b.jsxs)("div",{className:"container has-text-centered",children:[(0,b.jsx)("h1",{className:"title",children:"404 - Page Not Found"}),(0,b.jsx)("p",{children:"Sorry, the page you are looking for does not exist."}),(0,b.jsx)("a",{href:"/",className:"button is-primary",children:"Go Back Home"})]})})})}])}];
+
+//# sourceMappingURL=app_nasa-api_not-found_0xr86s8gkjso6.js.map

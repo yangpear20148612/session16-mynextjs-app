@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,27459,e=>{"use strict";var s=e.i(43476);e.s(["default",0,function(){return(0,s.jsxs)("div",{className:"has-text-centered",children:[(0,s.jsx)("div",{className:"loader is-loading"}),(0,s.jsx)("p",{children:"Loading data from NASA..."})]})}])}]);

@@ -1,0 +1,3 @@
+module.exports=[18661,a=>{"use strict";let b=(0,a.i(11857).registerClientReference)(function(){throw Error("Attempted to call the default export of [project]/app/nasa-api/loading.js from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.")},"[project]/app/nasa-api/loading.js","default");a.s(["default",0,b])},70527,a=>{"use strict";var b=a.i(18661);a.n(b)},87228,function(a){a.n(a.i(70527))}];
+
+//# sourceMappingURL=app_nasa-api_loading_1p3btbq7-r-2b.js.map
